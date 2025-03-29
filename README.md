@@ -38,8 +38,10 @@ streamlit run app.py
 - **Pandas** - Data handling & calculations
 - **Matplotlib & Seaborn** - Beautiful data visualization
 
-## 📜 License
-This project is licensed under the MIT License.
+## 📚 About the Course & Instructor
+AF3005 – Programming for Finance is a course designed to bridge the gap between finance and technology, equipping students with practical programming skills to solve real-world financial problems. The course covers financial modeling, data analysis, and algorithmic problem-solving using Python and other computational tools.
+
+This project was completed under the guidance of Dr. Usama Arshad, an esteemed professor at FAST NUCES, Islamabad, known for his expertise in financial technology and programming. His mentorship and insights have been invaluable in developing this application. 🚀
 
 ## 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first.
